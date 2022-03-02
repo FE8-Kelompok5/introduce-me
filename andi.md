@@ -1,0 +1,6 @@
+# Andi
+## Version Control
+....
+
+## What is Software Engineer
+....
